@@ -27,4 +27,7 @@ It allows users to instantly convert values between **Celsius, Fahrenheit, and K
 
 ## 📸 Screenshot
 <img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/2d73a676-9d9a-4d54-952c-6d93312e4d2e" />
+<img width = "400" height = "600" alt ="img"src ="https://github.com/user-attachments/assets/61ce1ff1-ed0e-4040-98e9-8e9f10d698ab"/>
+
+
   
